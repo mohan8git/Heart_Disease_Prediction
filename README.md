@@ -1,4 +1,5 @@
 # Heart_Disease_Prediction
+K-NN based aplication testing.
 This is binary classification problem in which it decides whether the person is diseased or not.
 It has accuracy rate of 0.87.
 
